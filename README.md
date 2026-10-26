@@ -8,6 +8,8 @@
 A commercial-grade decision intelligence platform tailored for a **UK licensed energy utility's Day-Ahead power procurement desk**. The platform enables trading analysts and procurement managers to evaluate national wind generation forecasts, quantify forecast error and systematic bias, and size optimal risk-adjusted purchase buffers to minimize punitive Balancing Mechanism cashout charges.
 
 ---
+<img width="1457" height="794" alt="Screenshot 2026-10-26 at 11 24 40 PM" src="https://github.com/user-attachments/assets/916ea152-14b0-4e0b-a9c6-1f47c69b4b43" />
+
 
 ## 1. Problem Setting & Market Context
 
